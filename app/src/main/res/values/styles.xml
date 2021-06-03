@@ -1,0 +1,94 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+
+
+    <!--    Login style-->
+
+    <!--    <style name="viewParent.headerText">-->
+<!--        <item name="android:textColor">@color/contentTextColor</item>-->
+<!--        <item name="android:textSize">@dimen/headerTextSize</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--    </style>-->
+
+<!--    <style name="viewParent.headerText.NoMode">-->
+<!--        <item name="android:textColor">@color/logo_color_black</item>-->
+<!--    </style>-->
+
+    <!--    <style name="loginButton" parent="viewParent">-->
+<!--        <item name="android:background">@drawable/button_background_blue</item>-->
+<!--        <item name="android:textColor">@color/whiteTextColor</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--    </style>-->
+
+<!--    <style name="MonthPickerDialogStyle" >-->
+<!--        <item name="monthBgColor">@color/mdtp_white</item>-->
+<!--        <item name="monthBgSelectedColor">@color/colorPrimary</item>-->
+<!--        <item name="monthFontColorSelected">@color/grey_60</item>-->
+<!--        <item name="monthFontColorNormal">@color/grey_60</item>-->
+<!--        <item name="monthFontColorDisabled">@color/grey_60</item>-->
+
+<!--        <item name="headerBgColor">@color/colorPrimary</item>-->
+<!--        <item name="headerFontColorSelected">#fff</item>-->
+<!--        <item name="headerFontColorNormal">#85FFFFFF</item>-->
+<!--        <item name="headerTitleColor">#fff</item>-->
+
+<!--        <item name="dialogActionButtonColor">@color/colorAccent</item>-->
+<!--    </style>-->
+
+    <!--    End login style-->
+
+    <style name="RippleStyleWhite">
+        <item name="mrl_rippleOverlay">true</item>
+        <item name="mrl_rippleColor">#80FFFFFF</item>
+        <item name="mrl_rippleHover">true</item>
+        <item name="mrl_rippleAlpha">0.2</item>
+    </style>
+
+    <style name="Toolbar.Light" parent="@style/AppTheme">
+        <item name="colorControlNormal">@color/grey_60</item>
+        <item name="android:textColorPrimary">@color/grey_60</item>
+    </style>
+
+    <style name="RippleStyleBlack" parent="RippleStyleWhite">
+        <item name="mrl_rippleColor">#8096989A</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <!--    <style name="AppTheme" parent="BaseTheme" />-->
+
+    <!--style for ripple library-->
+
+    <!--Theme for date picker dialog-->
+
+    <!--Theme for time picker dialog-->
+
+    <!-- Base application theme. -->
+
+    <style name="EditText.White" parent="@style/AppTheme">
+        <item name="colorControlActivated">@android:color/white</item>
+        <item name="colorControlHighlight">@android:color/white</item>
+        <item name="colorControlNormal">@color/grey_10</item>
+    </style>
+
+    <style name="EditText.Flat.Grey" parent="@style/AppTheme">
+        <item name="android:textColorHint">@color/grey_40</item>
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Subhead</item>
+        <item name="android:textColor">@color/grey_90</item>
+    </style>
+
+</resources>

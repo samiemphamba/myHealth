@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">@dimen/_2sdp</dimen>
+    <dimen name="spacing_small">@dimen/_3sdp</dimen>
+    <dimen name="spacing_medium">@dimen/_5sdp</dimen>
+    <dimen name="spacing_middle">@dimen/_10sdp</dimen>
+    <dimen name="spacing_xmiddle">@dimen/_12sdp</dimen>
+    <dimen name="spacing_large">@dimen/_15sdp</dimen>
+    <dimen name="spacing_mlarge">@dimen/_15sdp</dimen>
+    <dimen name="spacing_mxlarge">@dimen/_20sdp</dimen>
+    <dimen name="spacing_xlarge">@dimen/_25sdp</dimen>
+    <dimen name="spacing_xmlarge">@dimen/_35sdp</dimen>
+    <dimen name="spacing_xxlarge">@dimen/_45sdp</dimen>
+
+    <dimen name="reset_password_padding">5dp</dimen>
+    <dimen name="reset_password_layout_margin">50dp</dimen>
+
+</resources>

@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="441"
+    android:viewportHeight="291"
+    android:width="441dp"
+    android:height="291dp">
+    <path
+        android:pathData="M224.5 99L230.5 99L234 101L236 104.5L236 110.5L232.5 115L226.5 117L220 114Q217.4 111.7 218 105.5L222.5 100L224.5 99Z"
+        android:fillColor="#8D8D8D"
+        android:strokeColor="#8D8D8D"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M199.5 104Q207.4 103.1 209 108.5L209 115.5L207 119Q204.3 120.9 197.5 120Q192.1 118.4 193 110.5L195 106L199.5 104Z"
+        android:fillColor="#8D8D8D"
+        android:strokeColor="#8D8D8D"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M248.5 111Q256.6 110.9 259 116.5L260 121.5L255.5 129L246.5 130L242 126.5L240 119.5L245.5 112L248.5 111Z"
+        android:fillColor="#8D8D8D"
+        android:strokeColor="#8D8D8D"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M182.5 125Q189.4 124.1 191 128.5L192 134.5L188.5 139L182.5 140L178 136.5L177 130.5L180.5 126L182.5 125Z"
+        android:fillColor="#8D8D8D"
+        android:strokeColor="#8D8D8D"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M182.5 152Q188.3 151.2 190 154.5L191 160.5L187.5 165Q179.5 166.5 178 161.5Q176.5 154.5 180.5 153L182.5 152Z"
+        android:fillColor="#8D8D8D"
+        android:strokeColor="#8D8D8D"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M199.5 173Q206 172 207 176.5Q207.8 182.3 204.5 184L201.5 185L196 181.5L195 178.5L197.5 174L199.5 173Z"
+        android:fillColor="#8D8D8D"
+        android:strokeColor="#8D8D8D"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M0 0L441 0L441 291L0 291L0 0ZM225 99L223 100L218 106Q217 112 220 114L227 117L233 115L236 111L236 105L234 101L231 99L225 99ZM200 104L195 106L193 111Q192 118 198 120Q204 121 207 119L209 116L209 109Q207 103 200 104ZM249 111L246 112L240 120L242 127L247 130L256 129L260 122L259 117Q257 111 249 111ZM183 125L181 126L177 131L178 137L183 140L189 139L192 135L191 129Q189 124 183 125ZM183 152L181 153Q177 155 178 162Q180 167 188 165L191 161L190 155Q188 151 183 152ZM200 173L198 174L195 179L196 182L202 185L205 184Q208 182 207 177Q206 172 200 173Z"
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1" />
+</vector>
